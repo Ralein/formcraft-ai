@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "FormCraft AI - Advanced Form Builder",
   description: "Build, manage, and analyze forms with AI-powered insights",
-    generator: 'v0.dev'
+
 }
 
 export default function RootLayout({
